@@ -410,7 +410,7 @@ MonoBehaviour:
     type: 3}
   width: 6
   height: 7
-  tileSpacing: 1
+  tileoffset: 1
   RandomTiles: 3
   roomMaterial: {fileID: 0}
 --- !u!4 &432189870
